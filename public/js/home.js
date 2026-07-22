@@ -30,3 +30,10 @@ noticias.forEach(noticia=>{
     `;
 
 });    
+const pesquisa=document.getElementById("pesquisa");
+
+pesquisa.addEventListener("keyup",()=>{
+
+    const texto=pesquisa.value.toLowerCase();
+
+});
