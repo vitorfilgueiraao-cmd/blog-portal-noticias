@@ -1,4 +1,5 @@
 class Artigo {
+
     private id: number;
     private titulo: string;
     private conteudo: string;
@@ -8,4 +9,6 @@ class Artigo {
         this.titulo = titulo;
         this.conteudo = conteudo;
     }
+
 }
+
