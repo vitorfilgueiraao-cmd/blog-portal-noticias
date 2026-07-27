@@ -1,8 +1,30 @@
-# blog-portal-noticias
-Sistema de portal de notícias.
+# Blog Portal de Notícias 
 
-<<<<<<< HEAD
-#como rodar
-=======
->>>>>>> c55d361b722ff4ed952985e772731d9daaa6a60c
+Sistema web de  portal de notícias desenvolvido como projeto final da matéria de TI.
 
+## Equipe
+
+ - Vitor Filgueira - QA / Testes
+ - José Luciano - Back-end
+ - Gabriel Costa - Líder
+ - Matheus Vinícius - Front-end
+
+## Tecnologias
+
+ - Node.js
+ - TypeScript
+ - Express
+ - EJS
+ - Jest
+
+## Como executar
+
+```bash
+npm install
+npm run dev
+```
+## Como rodar os testes
+
+```bash
+npm test
+```
